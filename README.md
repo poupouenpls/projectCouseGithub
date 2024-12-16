@@ -17,7 +17,7 @@
 - [ ] Réorganisation et Optimisation des Branches
   - [ ] Réorganiser l'historique des commits.
   - [ ] Combinez plusieurs commits en un seul pour nettoyer l’historique.
-- [ ] Déploiement sur Plesk
-  - [ ] Déployez le site sur Plesk
-  - [ ] Testez l’URL pour vérifier que le site est bien en ligne.
+- [x] Déploiement sur Plesk
+  - [x] Déployez le site sur Plesk
+  - [x] Testez l’URL pour vérifier que le site est bien en ligne.
   - [ ] Fusionnez les branches et nettoyez l’historique Git.
